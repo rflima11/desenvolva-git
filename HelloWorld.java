@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        System.out.println("Olá mundo alterado");
+        System.out.println("Olá mundo V2");
 
     }
 
